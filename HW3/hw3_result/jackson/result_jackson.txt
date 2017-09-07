@@ -1,0 +1,60 @@
+0_jackson_0.wav
+    1     0     0     1     0
+1_jackson_0.wav
+    1     1     0     1     1
+2_jackson_0.wav
+    1     0     0     0     0
+3_jackson_0.wav
+    1     0     1     0     1
+4_jackson_0.wav
+    1     1     1     1     1
+5_jackson_0.wav
+    1     0     0     1     1
+0_jackson_1.wav
+    1     1     1     1     1
+1_jackson_1.wav
+    0     1     1     1     1
+2_jackson_1.wav
+    1     1     0     0     0
+3_jackson_1.wav
+    1     1     1     1     1
+4_jackson_1.wav
+    0     1     1     1     0
+5_jackson_1.wav
+    1     1     0     1     1
+0_jackson_2.wav
+    1     1     1     1     1
+1_jackson_2.wav
+    0     1     1     1     1
+2_jackson_2.wav
+    0     0     1     0     1
+3_jackson_2.wav
+    1     1     1     1     1
+4_jackson_2.wav
+    1     1     1     1     0
+5_jackson_2.wav
+    0     0     1     0     1
+0_jackson_3.wav
+    1     1     1     1     1
+1_jackson_3.wav
+    1     1     1     1     1
+2_jackson_3.wav
+    0     0     0     1     1
+3_jackson_3.wav
+    1     1     1     1     1
+4_jackson_3.wav
+    1     1     1     1     0
+5_jackson_3.wav
+    1     1     0     1     0
+0_jackson_4.wav
+    1     0     1     1     1
+1_jackson_4.wav
+    0     0     0     0     1
+2_jackson_4.wav
+    0     0     0     0     1
+3_jackson_4.wav
+    1     1     1     0     1
+4_jackson_4.wav
+    1     1     1     1     1
+5_jackson_4.wav
+    1     1     1     1     1
