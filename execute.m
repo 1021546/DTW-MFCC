@@ -33,7 +33,7 @@ for g = 1:file_repeat_count
                 cepDpDD=my_mfcc(epd_y, fs);
                 [feature_dimension, frame_number]=size(cepDpDD);
 
-                % «Ø¥ßdtwªí®æ
+                % å»ºç«‹dtwè¡¨æ ¼
                 clear dist;
                 dist(frame_number_test, frame_number) = 0;
                 for r = 1:frame_number_test % Reference vector
@@ -63,7 +63,7 @@ for g = 1:file_repeat_count
 
         %         dtw_grid(frame_number_test, frame_number)
 
-                % dtw¨B¼Æ
+                % dtwæ­¥æ•¸
                 dtw_count=0;
                 temp_x=frame_number_test;
                 temp_y=frame_number;
